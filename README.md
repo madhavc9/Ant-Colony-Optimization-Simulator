@@ -14,12 +14,12 @@
                 <li><a href="#how-to-run">How to Run</a></li>
             </ul>
         </details>
-        --
+        <hr>
         <details>
             <summary id="introduction">Introduction</summary>
             <p>The <strong>Ant Colony Optimization Simulator</strong> is a web-based tool that simulates the behavior of ants to solve optimization problems such as the <strong>Traveling Salesman Problem (TSP)</strong>. It visualizes how artificial ants traverse paths, deposit pheromones, and iteratively improve solutions to find the shortest route between multiple nodes.</p>
         </details>
-        ---  
+        <hr>  
         <details>
             <summary id="technologies">Technologies Used</summary>
             <ul>
@@ -30,7 +30,7 @@
                 <li><strong>Utilities:</strong> Various JavaScript helper functions for algorithm implementation</li>
             </ul>
         </details>
-        --- 
+       <hr>
         <details>
             <summary id="working">Working</summary>
             <ol>
@@ -41,7 +41,7 @@
                 <li><strong>Visualization:</strong> Real-time graphs display the shortest distance and the evolution of solutions.</li>
             </ol>
         </details>
-        ---
+    <hr>
         <details>
             <summary id="algorithms">Algorithms Used</summary>
             <ul>
@@ -50,12 +50,12 @@
                 <li><strong>Random System:</strong> Implements purely random movement to compare against structured ACO methods.</li>
             </ul>
         </details>
-        ---
+       <hr>
         <details>
             <summary id="how-to-run">How to Run</summary>
             <p>Simply open <code>index.html</code> in any web browser to start the simulation. No additional setup or server is required.</p>
         </details>
-        ---
+        <hr>
         <p><strong>Developed with ❤️ in JavaScript by MADHAV</strong></p>
     </div>
 </body>

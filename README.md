@@ -2,17 +2,6 @@
 <html lang="en">
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ant Colony Optimization Simulator - README</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        .container { max-width: 800px; margin: auto; padding: 20px; }
-        details { margin-bottom: 10px; }
-        summary { font-size: 1.2em; font-weight: bold; cursor: pointer; }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>Ant Colony Optimization Simulator</h1>
@@ -63,7 +52,6 @@
             <summary id="how-to-run">How to Run</summary>
             <p>Simply open <code>index.html</code> in any web browser to start the simulation. No additional setup or server is required.</p>
         </details>
-        <p><strong>Developed with passion in JavaScript</strong></p>
     </div>
 </body>
 </html>

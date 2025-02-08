@@ -1,16 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ant Colony Optimization Simulator - README</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        .container { max-width: 800px; margin: auto; padding: 20px; }
-        details { margin-bottom: 10px; }
-        summary { font-size: 1.1em; font-weight: bold; cursor: pointer; }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>Ant Colony Optimization Simulator</h1>
@@ -25,7 +14,7 @@
                 <li><a href="#how-to-run">How to Run</a></li>
             </ul>
         </details>
-        ---
+        --
         <details>
             <summary id="introduction">Introduction</summary>
             <p>The <strong>Ant Colony Optimization Simulator</strong> is a web-based tool that simulates the behavior of ants to solve optimization problems such as the <strong>Traveling Salesman Problem (TSP)</strong>. It visualizes how artificial ants traverse paths, deposit pheromones, and iteratively improve solutions to find the shortest route between multiple nodes.</p>

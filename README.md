@@ -62,8 +62,10 @@
             <p>Simply open <code>index.html</code> in any web browser to start the simulation. No additional setup or server is required.</p>
         </details>
         <hr>
-        <p><strong>Developed with ❤️ in JavaScript by MADHAV</strong></p>
     </div>
+    <div align="center">
+  Developed with ❤️ in JavaScript by MADHAV
+</div>
 </body>
 </html>
 

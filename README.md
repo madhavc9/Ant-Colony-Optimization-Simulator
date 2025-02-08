@@ -18,10 +18,12 @@
         </details>
         <details>
             <summary id="introduction">Introduction</summary>
+            <br>
             <p>The <strong>Ant Colony Optimization Simulator</strong> is a web-based tool that simulates the behavior of ants to solve optimization problems such as the <strong>Traveling Salesman Problem (TSP)</strong>. It visualizes how artificial ants traverse paths, deposit pheromones, and iteratively improve solutions to find the shortest route between multiple nodes.</p>
         </details>
         <details>
             <summary id="technologies">Technologies Used</summary>
+             <br>
             <ul>
                 <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
                 <li><strong>Visualization:</strong> Fabric.js for rendering nodes and paths</li>
@@ -32,6 +34,7 @@
         </details>
         <details>
             <summary id="working">Working</summary>
+             <br>
             <ol>
                 <li><strong>User Input:</strong> Nodes (locations) are added manually or loaded via CSV files.</li>
                 <li><strong>Simulation Start:</strong> Ants move between nodes based on pheromone trails and heuristic information.</li>
@@ -42,6 +45,7 @@
         </details>
         <details>
             <summary id="algorithms">Algorithms Used</summary>
+             <br>
             <ul>
                 <li><strong>Ant System (AS):</strong> All ants deposit pheromones equally, reinforcing shorter paths.</li>
                 <li><strong>Ant Colony System (ACS):</strong> Uses pseudo-random proportional selection to balance exploration and exploitation.</li>
@@ -50,6 +54,7 @@
         </details>
         <details>
             <summary id="how-to-run">How to Run</summary>
+             <br>
             <p>Simply open <code>index.html</code> in any web browser to start the simulation. No additional setup or server is required.</p>
         </details>
     </div>

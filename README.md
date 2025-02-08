@@ -16,6 +16,7 @@
     <a href="https://madhavc9.github.io/Ant-Colony-Optimization-Simulator/" target="_blank"><strong> Live Website »</strong></a>
   </p>
 </div>
+<details>
             <summary>Table of Contents</summary>
             <br>
             <ul>
